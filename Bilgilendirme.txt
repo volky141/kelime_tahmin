@@ -1,0 +1,3 @@
+Bu uygulama, Kotlin programlama dili kullanılarak geliştirilmiş basit bir kelime tahmin oyunudur. Uygulama, önceden tanımlanmış bir kelime listesinden rastgele bir kelime seçer ve kullanıcının bu kelimeyi harf harf tahmin ederek bulmasını amaçlar.
+
+Kullanıcının kelimeyi bulmak için belirli sayıda (varsayılan olarak 5) tahmin hakkı bulunur. Her doğru harf tahmini, kelimedeki ilgili harflerin yerini gösterirken, her yanlış tahmin kullanıcının kalan haklarından birini eksiltir. Oyun, kullanıcı kelimenin tamamını doğru tahmin ettiğinde veya tahmin hakları tükendiğinde sona erer.
